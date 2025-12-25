@@ -119,8 +119,8 @@ Learn basic economics concepts:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/junior_high_sim.git
-cd junior_high_sim
+git clone https://github.com/listyantidewi1/simple-science-simulator.git
+cd simple-science-simulator
 ```
 
 2. Install required dependencies:
